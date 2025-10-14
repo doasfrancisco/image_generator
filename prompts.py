@@ -127,3 +127,164 @@ sword_2 = {
     "version":"1.3.0" 
     }
 }
+
+# Source: https://x.com/IamEmily2050/status/1977075634536169827
+woman_mommy = {
+    "style": "smartphone_selfie_low_light_high_contrast",
+    "image_description": {
+      "subject": {
+        "type": "Person",
+        "gender": "Female",
+        "age_appearance": "Young Adult (early 20s)",
+        "ethnicity_appearance": "East Asian",
+        "complexion": {
+          "tone": "Extremely pale, fair.",
+          "texture": "Smooth, flawless, matte finish."
+        },
+        "hair": {
+          "color": "Intense platinum blonde. Appears almost white in direct light, with subtle silvery or pale lavender undertones visible in the shadows.",
+          "style": "Long and straight, voluminous, flowing over the shoulders and chest.",
+          "bangs": "Full, straight-cut fringe (bangs) ending just above the eyelashes.",
+          "texture": "Soft, slightly wispy, highly reflective of light."
+        },
+        "facial_features": {
+          "eyes": {
+            "size": "Large and prominent (doe-eyed).",
+            "color": "Cool-toned grey or deep blue-grey. Enhanced by colored contact lenses with a defined limbal ring.",
+            "makeup": "Dramatic and precise. Thick black eyeliner on the upper lid with a sharp wing. Very long, dense, and voluminous false eyelashes on both upper and lower lashes. Defined 'aegyo-sal' (under-eye area emphasized with subtle highlight/shimmer).",
+            "eyebrows": "Relatively straight, groomed, and filled in softly."
+          },
+          "nose": "Small, slim bridge, defined tip, highlighted along the bridge.",
+          "lips": {
+            "shape": "Full, plump, well-defined cupid's bow.",
+            "state": "Slightly parted.",
+            "color": "Soft, glossy muted-pink or peach lip tint."
+          }
+        },
+        "expression": "Neutral, direct, slightly sultry gaze into the camera lens."
+      },
+      "attire_and_accessories": {
+        "clothing": {
+          "top": "Black strapless top (tube top or dress). Shoulders and clavicle are bare.",
+          "details": "The fabric is deep black. Upon close inspection, a subtle, darker lace or embroidered pattern is visible on the bodice area.",
+          "bottoms": "Black material visible on the thigh in the lower-left corner (suggesting shorts, skirt, or thigh-highs)."
+        },
+        "jewelry": [
+          {
+            "type": "Earring",
+            "location": "Left ear",
+            "description": "A very large, thin, metallic silver hoop earring."
+          },
+          {
+            "type": "Necklace",
+            "description": "Worn on a thin dark cord or chain.",
+            "pendant": "A prominent, ornate silver cross. The pendant has a stylized, gothic or fantasy design with flared, pointed ends. The surface is intricate and catches the light, suggesting embedded crystals or multifaceted metalwork."
+          }
+        ]
+      },
+      "pose_and_composition": {
+        "type": "Selfie",
+        "orientation": "Portrait",
+        "angle": "Slightly high angle.",
+        "framing": "Close-up, tightly framed on the head, shoulders, and upper torso.",
+        "pose": "Subject is reclining or seated. Her right arm is extended forward towards the camera (holding the device), creating a forced perspective where the arm and shoulder are prominent in the lower right foreground."
+      },
+      "environment_and_lighting": {
+        "environment": "Indoor, very dark, suggesting nighttime or a dimly lit room.",
+        "lighting": {
+          "source": "Frontal, direct lighting (likely from the phone screen, flash, or ring light).",
+          "effect": "High contrast. Illuminates the face and hair brightly against the dark background. Creates bright catchlights in the eyes. Soft shadows define the facial structure."
+        },
+    }
+  }
+}
+
+# Source: https://x.com/karatademada/status/1976950313505423477
+curly_girl = {
+  "title": "Warm night street portrait with vintage flash aesthetic",
+  "style": "Candid nightlife portrait with early-2000s Y2K fashion and Polaroid-film texture. Warm tones, visible grain, and slight color shift for an authentic analog look. Direct flash lighting with deep contrast and spontaneous energy.",
+  "subject": {
+    "category": "human",
+    "gender_presentation": "female",
+    "age_bracket": "young_adult",
+    "ethnicity": "biracial",
+    "skin_tone": "warm golden-caramel",
+    "hair": {
+      "texture": "curly",
+      "length": "medium-long",
+      "style": "naturally curly, slightly messy, loose strands framing face and falling over shoulders"
+    },
+    "face": {
+      "expression": "eyes closed, soft relaxed lips, calm confidence, serene and natural",
+      "makeup": "dewy skin, warm highlights on cheekbones, subtle eyeliner, glossy lips"
+    },
+    "body": {
+      "pose": "seated or leaning back slightly against railing, torso turned 3/4 to camera, head tilted back gently",
+      "gesture": "right hand brushing shoulder or collarbone, left hand resting near shorts waistband"
+    }
+  },
+  "wardrobe": {
+    "top": "black lace bralette (tasteful, fashion-forward)",
+    "outerwear": "black leather jacket worn loose and off-shoulder",
+    "bottoms": "light blue denim shorts, slightly frayed hem, mid-rise fit",
+    "accessories": [
+      "brown leather belt",
+      "small keychain or charm hanging from belt loop",
+      "gold or silver small hoop earrings",
+      "thin gold necklace"
+    ]
+  },
+  "environment": {
+    "setting": "nighttime New York City street or elevated walkway",
+    "background": "rusted metal railings with vertical bars, dim warm city lights and bokeh in background",
+    "lighting_condition": "low-light environment, single flash source"
+  },
+  "camera": {
+    "framing": "medium close-up (waist to head)",
+    "angle": "slightly above subject, tilted composition for natural feel",
+    "focal_length": "35mm equivalent",
+    "depth_of_field": "shallow, soft background blur",
+    "film_type": "warm color negative film (Kodak Gold 200 aesthetic)"
+  },
+  "lighting": {
+    "key": "direct on-camera flash",
+    "fill": "none",
+    "temperature": "warm 4200K",
+    "notes": "slight overexposure on skin for flash realism; hard shadow behind railing for authentic snapshot effect"
+  },
+  "composition": {
+    "framing_notes": "tight crop, include shorts line and right hand gesture, eyes closed and head slightly tilted back",
+    "pose_notes": "relaxed body language with natural flow",
+    "background_blur": "subtle bokeh on street lights"
+  },
+  "colors": {
+    "palette": "warm amber tones, soft golden skin, faded blue denim, black leather, muted dark background",
+    "contrast": "medium-high",
+    "saturation": "slightly increased for warmth"
+  },
+  "postprocessing": {
+    "look": "vintage film snapshot",
+    "grain": "medium grain visible throughout image",
+    "vignette": "gentle and warm",
+    "white_balance": "flash/daylight with slight yellow tint",
+    "exposure": "slightly overexposed highlights on skin",
+    "contrast": "high microcontrast for flash pop",
+    "color_grade": "warm golden cast with magenta shadows for nostalgic feel",
+    "texture": "light film halation and fine dust specks"
+  },
+  "output": {
+    "aspect_ratio": "4:5",
+    "resolution": "1080x1350",
+    "render_intent": "photo",
+    "color_profile": "sRGB"
+  },
+  "negatives": [
+    "no nudity",
+    "no extreme makeup",
+    "no cinematic lighting",
+    "no other people",
+    "no smile or direct eye contact",
+    "no heavy retouching",
+    "no cold color tones"
+  ]
+}

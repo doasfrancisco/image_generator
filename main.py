@@ -4,7 +4,7 @@ import copy
 
 elements = ["ice", "electric", "water", "holy", "dark", "earth", "wind"]
 # weapon_types = ["sword", "dagger", "bow", "mace", "axe", "hammer"]
-weapon_types = ["sword"]
+# weapon_types = ["sword"]
 
 
 element_colors = {
