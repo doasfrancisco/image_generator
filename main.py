@@ -1,5 +1,5 @@
 import json
-import prompts
+from images import prompts
 import copy
 
 elements = ["ice", "electric", "water", "holy", "dark", "earth", "wind"]

@@ -1,4 +1,6 @@
 render_styles = [
+    # Used so far
+    "pixar_style_3d",
     # 1. Pixel / Low-Res Art
     "pixel_art",
     "hd_pixel_art",
@@ -65,6 +67,7 @@ outline_styles = [
 ]
 
 shading_models = [
+    "realistic_pbr_3d",
     "toon",  # Two or three flat color bands for light, midtone, shadow. Creates cartoon/cel look. Stylized / readable game icons.
     "soft",  # Smooth gradient transitions between light and dark. Natural or digital painting look.
     "pbr",  # Physically Based Rendering - Simulates real-world materials: reflection, roughness, metalness. Realistic 3D renders.

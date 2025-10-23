@@ -1,5 +1,40 @@
-# These are CRAZY
+"""
+Camera Move: Static camera, medium shot
+Scene: An indoor room with light colored walls and a dark gray door on the left side of the frame. The floor is light colored.
+Characters: A young woman with long, straight red hair, wearing a fitted black spaghetti strap dress, gold bracelets on her right wrist, and small stud earrings.
+Actions: The woman holds a clear plastic water bottle to her mouth with both hands and drinks, tilting her head back slightly.
+"""
 
+tiktok = {
+  "shot": {
+    "duration": 8,
+    "aspect_ratio": "9:16",
+    "composition": "full-body, lower waist-level angle, shot on Sony Venice, shallow depth of field, portrait orientation",
+    "camera_motion": "handheld, subtle natural shake, static position",
+    "frame_rate": 30,
+    "film_grain": 0.06
+  },
+  "subject": {
+    "description": "A young woman with long, straight red hair",
+    "wardrobe": "fitted black spaghetti strap dress, gold bracelets on right wrist, small stud earrings"
+  },
+  "scene": {
+      "setting": "An indoor room with light colored walls and a dark gray door on the left side of the frame. The floor is light colored"
+  },
+  "visual_details": {
+    "action": "The woman looks at the camera while holding a clear plastic water bottle. Then she brings it to her mouth with both hands and drinks, tilting her head back slightly"
+  },
+  "cinematography": {
+    "lighting": "key: diffused daylight from window (camera left); fill: ambient wall bounce (camera right); rim: none, natural contrast from door frame",
+    "style": "naturalistic indoor lighting",
+    "tone": "casual, light-hearted"
+  },
+  "color_palette": ["#757372", "#c7c19c", "#631a1c","#c88e75", "#2a3049"],
+  "dialogue": None,
+  "visual_rules": {
+    "prohibited_elements": ["subtitles", "captions", "logos", "text overlays"]
+  }
+}
 
 # Source: https://x.com/IamEmily2050/status/1941533874653475176
 china_girl = {
@@ -44,7 +79,7 @@ kids_singing = {
     "aspect_ratio": "16:9",
     "composition": "medium-wide, eye-level, 35 mm lens",
     "camera_motion": "slow 25 cm dolly-in for intimacy",
-    "frame_rate": 24,
+    "frame_rate": 30,
     "film_grain": 0.06
   },
   "scene": {

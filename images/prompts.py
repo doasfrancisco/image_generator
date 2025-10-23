@@ -8,12 +8,12 @@ boat_in_valley = {
     "camera": "50mm lens equivalent, shallow depth of field"
     },
     "parameters": {
-    "main_subject": "boat",
-    "location": "vast mountain valley",
-    "time_of_day": "sunrise",
-    "weather": "misty",
-    "mood": "serene and cinematic",
-    "palette": ["#FFD580", "#6BA3FF", "#B4D6D3"]
+      "main_subject": "boat",
+      "location": "vast mountain valley",
+      "time_of_day": "sunrise",
+      "weather": "misty",
+      "mood": "serene and cinematic",
+      "palette": ["#FFD580", "#6BA3FF", "#B4D6D3"]
     },
     "medium": "photorealistic 3D render or high-resolution digital painting",
     "size": "1920x1080"
